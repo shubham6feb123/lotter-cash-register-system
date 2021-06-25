@@ -1,0 +1,12 @@
+.banner{
+    background-color: #4091C8;
+width: 100%;
+height: 76px;
+display: grid;
+place-items: center;
+}
+.banner>h1{
+    text-align: center;
+    color: #FFFF54;
+    font-weight: 900;
+}
